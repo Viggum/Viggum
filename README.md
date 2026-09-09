@@ -51,13 +51,4 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viggum&show_icons=true&hide_border=true&theme=tokyonight" alt="Vikke's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viggum&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by — feel free to say hi on LinkedIn!</i></p>
